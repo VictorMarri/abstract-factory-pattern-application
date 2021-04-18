@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.exe
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.deps.json
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.json
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.dll
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.dll
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\Users\victo\source\repos\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.genruntimeconfig.cache
